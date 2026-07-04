@@ -1,5 +1,5 @@
 #CONFIGURATION
-kernelsource=https://github.com/xxblebleblexx/moonbeam_gale_kernel.git # Must be edited
+kernelsource=https://github.com/Stadllex/moonbeam_gale_kernel.git # Must be edited
 kernelname=$(basename "$kernelsource" .git) # No need to edit
 branch_kernel=mb-mglru # Must be edited
 defconfig_path=arch/arm64/configs/gale_defconfig # Must be edited
